@@ -2,6 +2,8 @@
 
 int main() {
     printf("Hello, World!\n");
-    printf("Jakub Bia³as");
+    printf("Jakub Bialas\n");
+    printf("Aleksandra Romblewska");
+
     return 0;
 }
